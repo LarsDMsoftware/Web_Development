@@ -8,6 +8,9 @@
 </head>
 <body>
     <button id="button">Get Text File</button>
+    <br><br>
+    <div id="text"> </div>
+
     <script>
         // Event listener
         document.getElementById('button').addEventListener('click', loadText);
@@ -18,16 +21,59 @@
             var xhr = new XMLHttpRequest();
             // OPEN - type, url/filename, async
             xhr.open("GET", "sample.txt", true)
+
+            console.log("READYSTATE: ", xhr.readyState);
+            
             xhr.onload = function()
             {
                 if(this.status == 200) // 200 = OK HTTP request.
                 {
                     console.log(this.responseText);
+                    document.getElementById("text").innerHTML = this.responseText;
+                } else if(this.status = 404)
+                {
+                    document.getElementById("text").innerHTML = "Not Found";
                 }
             }
+            // Make sure to add onerror incase something happens while loading
+            xhr.onerror = function()
+            {
+                console.log("Request Error....");
+            }
+
+
+            // OPTIONAL - used for loaders
+            xhr.onprogress = function()
+            {
+                console.log("READYSTATE: ", xhr.readyState);
+            }
+            
+            //Same functionality as onload BUT make sure to check readystate.
+            xhr.onreadystatechange = function()
+            {
+            
+                if(this.readyState == 4 && this.status == 200)
+                {
+                    console.log(this.responseText);
+                }
+            }    
+
             //Sends request
             xhr.send();
+
+            //readyState Values
+            // 0: request not initialized
+            // 1= Server connection established
+            // 2: Request received
+            // 3: Processing request
+            // 4: Request finished and respone is ready
+
+            // HTTP Statusses
+            // 200: "OK"
+            // 403: "Forbidden"
+            // 404: "NOT FOUND"
         }
     </script>
 </body>
 </html>
+
