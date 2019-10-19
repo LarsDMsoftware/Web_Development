@@ -1,0 +1,40 @@
+*
+{
+    font-size: 14px;
+}
+
+h1{
+    font-family: verdana;
+    font-style: italic;
+    font-size: 24px;
+    color: red;
+    font-style: bold;
+}
+h2{
+    font-size: 18px;
+    text-decoration: underline;
+    color: darkred;
+}
+h1, h2
+{
+    text-transform: uppercase;
+}
+
+figcaption
+{
+    font-size: 11px;
+    font-style: italic;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: lower-roman;
+}
+
+img
+{
+    width: 150px;
+}
