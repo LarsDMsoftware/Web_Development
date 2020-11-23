@@ -1,0 +1,27 @@
+* 
+{
+    border: 2px black solid;
+    padding: 5px;
+}
+
+header, footer
+{
+    width: 100%;
+}
+
+section
+{
+    width:62%;
+    
+}
+
+aside
+{
+    width: 32%;
+}
+nav{
+    width: 50%;
+}
+article{
+    border: 1px dotted red;
+}
