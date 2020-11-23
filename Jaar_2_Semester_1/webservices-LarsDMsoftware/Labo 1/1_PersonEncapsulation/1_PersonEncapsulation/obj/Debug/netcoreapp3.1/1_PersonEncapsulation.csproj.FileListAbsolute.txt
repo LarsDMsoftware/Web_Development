@@ -1,0 +1,13 @@
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\obj\Debug\netcoreapp3.1\1_PersonEncapsulation.csprojAssemblyReference.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\obj\Debug\netcoreapp3.1\1_PersonEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\obj\Debug\netcoreapp3.1\1_PersonEncapsulation.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\obj\Debug\netcoreapp3.1\1_PersonEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\bin\Debug\netcoreapp3.1\1_PersonEncapsulation.exe
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\bin\Debug\netcoreapp3.1\1_PersonEncapsulation.deps.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\bin\Debug\netcoreapp3.1\1_PersonEncapsulation.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\bin\Debug\netcoreapp3.1\1_PersonEncapsulation.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\bin\Debug\netcoreapp3.1\1_PersonEncapsulation.dll
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\bin\Debug\netcoreapp3.1\1_PersonEncapsulation.pdb
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\obj\Debug\netcoreapp3.1\1_PersonEncapsulation.dll
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\obj\Debug\netcoreapp3.1\1_PersonEncapsulation.pdb
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\1_PersonEncapsulation\1_PersonEncapsulation\obj\Debug\netcoreapp3.1\1_PersonEncapsulation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\bin\Debug\netcoreapp3.1\2_Casting.exe
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\bin\Debug\netcoreapp3.1\2_Casting.deps.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\bin\Debug\netcoreapp3.1\2_Casting.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\bin\Debug\netcoreapp3.1\2_Casting.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\bin\Debug\netcoreapp3.1\2_Casting.dll
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\bin\Debug\netcoreapp3.1\2_Casting.pdb
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\obj\Debug\netcoreapp3.1\2_Casting.csprojAssemblyReference.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\obj\Debug\netcoreapp3.1\2_Casting.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\obj\Debug\netcoreapp3.1\2_Casting.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\obj\Debug\netcoreapp3.1\2_Casting.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\obj\Debug\netcoreapp3.1\2_Casting.dll
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\obj\Debug\netcoreapp3.1\2_Casting.pdb
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo 1\2_Casting\2_Casting\obj\Debug\netcoreapp3.1\2_Casting.genruntimeconfig.cache

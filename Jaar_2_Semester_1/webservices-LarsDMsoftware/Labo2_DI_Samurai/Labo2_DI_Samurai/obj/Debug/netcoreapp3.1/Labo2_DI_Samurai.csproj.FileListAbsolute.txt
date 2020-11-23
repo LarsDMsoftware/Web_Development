@@ -1,0 +1,13 @@
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\bin\Debug\netcoreapp3.1\Labo2_DI_Samurai.exe
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\bin\Debug\netcoreapp3.1\Labo2_DI_Samurai.deps.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\bin\Debug\netcoreapp3.1\Labo2_DI_Samurai.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\bin\Debug\netcoreapp3.1\Labo2_DI_Samurai.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\bin\Debug\netcoreapp3.1\Labo2_DI_Samurai.dll
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\bin\Debug\netcoreapp3.1\Labo2_DI_Samurai.pdb
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\obj\Debug\netcoreapp3.1\Labo2_DI_Samurai.csprojAssemblyReference.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\obj\Debug\netcoreapp3.1\Labo2_DI_Samurai.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\obj\Debug\netcoreapp3.1\Labo2_DI_Samurai.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\obj\Debug\netcoreapp3.1\Labo2_DI_Samurai.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\obj\Debug\netcoreapp3.1\Labo2_DI_Samurai.dll
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\obj\Debug\netcoreapp3.1\Labo2_DI_Samurai.pdb
+C:\Users\Larsie\Desktop\School\Jaar 2\WebServices\webservices-LarsDMsoftware\Labo2_DI_Samurai\Labo2_DI_Samurai\obj\Debug\netcoreapp3.1\Labo2_DI_Samurai.genruntimeconfig.cache
